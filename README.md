@@ -45,6 +45,9 @@
 - ⏱️ Méthode SCRUM
 - 🔀 Git
 
+## Mes projets 💻
+***Voici un condensé des projets réalisés durant mes études*** : https://github.com/LionThibaut/LionThibaut-SchoolProjects
+
 ## Langues
 - Français 🟢🟢🟢🟢🟢
 - Anglais 🟢🟢🟢🔴🔴
