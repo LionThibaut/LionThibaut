@@ -64,6 +64,7 @@
 - ☎️ +32 476 05 75 14
 - 📍 Saint-Symphorien (Mons)
 - 📅 17/12/2002 (21 ans)
+- 📄 [Mon CV](Documents/Cv-Lion-Thibaut.pdf)
 - 👨‍💼 [Mon profil LinkedIn](https://www.linkedin.com/in/thibaut-lion-9535332aa/)
 
 ---
